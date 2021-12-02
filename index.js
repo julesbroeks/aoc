@@ -1,5 +1,5 @@
 // config //
-let overrideDay = 3; // set to number to overwrite default (today)
+let overrideDay = null; // set to number to overwrite default (today)
 
 // imports //
 let fs = require('fs');
